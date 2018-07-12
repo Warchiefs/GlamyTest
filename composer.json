@@ -1,0 +1,19 @@
+{
+    "name": "warchiefs/glamy_test",
+    "description": "Testing task for Glamy.Ru",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Александр Мурадов",
+            "email": "ialexmur@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "GlamyTest\\Library\\": "Library/"
+        }
+    }
+}
